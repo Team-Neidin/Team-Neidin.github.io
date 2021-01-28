@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Important F1 in Schools Ireland Update
-subtitle: F1 in Schools Ireland will go virtual
+subtitle: From the F1 in Schools Ireland Team
 tags: [f1_in_schools_team]
 comments: true
 ---
@@ -43,6 +43,3 @@ To recap, the key changes to the calendar are (all dates are subject to adjustme
 * Optional submission of portfolios for judging feedback: 26th of February 2021
 
 Finally, we now congratulate you on your qualification to the F1 in Schools National Finals, and we welcome your questions and feedback.
-
-Kindest Regards,
-The F1 in Schools Ireland Team
