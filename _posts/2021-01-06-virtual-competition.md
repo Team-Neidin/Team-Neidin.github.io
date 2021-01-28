@@ -32,7 +32,7 @@ We are aware that for many teams, the Regional Finals act as great source of fee
 
 We are committed to making it possible for each team to complete their project remotely for as long as required. As regards resources for completing the design of your car, there is free Autodesk Student Version software available via the link at www.f1inschools.ie/downloads. From there, you can download free copies of Autodesk Inventor (CAD) and Autodesk CFD Ultimate (virtual wind tunnel - CFD) to design and test your CAD models. If you are having issues accessing this software at home, please let us know immediately, and we will work with you to resolve them. We encourage teams to continue to meet regularly, and to make use of free tools such as Zoom/Teams, Slack and Google Docs to complete your verbal presentation and portfolios.
 
-Summary
+## Summary
 
 To recap, the key changes to the calendar are (all dates are subject to adjustment):
 
