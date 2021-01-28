@@ -15,10 +15,10 @@ author: Conor Casey
 
 navbar-links:
   About Us: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Documents:
+    - Proposal: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  GitHub Repository: "https://https://github.com/Team-Neidin"
 
 # --- Logo --- #
 
@@ -43,23 +43,6 @@ social-network-links:
   facebook: teamneidin2021
   github: Team-Neidin
   twitter: TNeidin
-  instagram: f1teamneidin
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 
 # --- General options --- #
 
