@@ -14,10 +14,9 @@ author: Conor Casey
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Documents:
-    - Proposal: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Proposal: "https://kenmarecs-my.sharepoint.com/:b:/p/16ccasey_student/ETJDhEvHWQtNpSe8utM7KBQBW-LZ4OPeG5EjwL2QJWJSgQ?e=7twWy9"
   GitHub Repository: "https://https://github.com/Team-Neidin"
 
 # --- Logo --- #
