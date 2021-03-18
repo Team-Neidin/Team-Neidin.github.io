@@ -6,7 +6,7 @@ subtitle: Meet our Sponsors
 
 ## Title Sponsor
 
-### KPH Construction
+### [KPH Construction](https://www.kph.ie)
 
 <img align="left" width="250" height="200" src="https://www.kenmare.ie/contentFiles/productImages/Large/KPH-Logo1.png">
 
@@ -14,13 +14,13 @@ KPH Construction is the main and title sponsor of our team. This company is an i
 
 ## Presenting Sponsors
 
-### Holbein Carpentry & Joinery
+### [Holbein Carpentry & Joinery](http://holbein.ie)
 
 <img align="right" width="150" height="125" src="https://www.kenmare.ie/contentFiles/productImages/Large/Holbein.png">
 
 Holbein Carpentry & Joinery is one of our presenting sponsors. They are based in the picturesque town of Kenmare, South Kerry. They create bespoke products, tailored to meet design specifications. 
 
-### MHL Consulting Engineers
+### [MHL Consulting Engineers](https://www.mhl.ie)
 
 <img align="left" width="125" height="125" src="https://acei.ie/ws-content/uploads/logo-mhl.gif">
 
