@@ -8,7 +8,7 @@ subtitle: Meet our Sponsors
 
 ### KPH Construction
 
-<img align="left" width="200" height="200" src="https://www.kenmare.ie/contentFiles/productImages/Large/KPH-Logo1.png">
+<img align="left" width="250" height="200" src="https://www.kenmare.ie/contentFiles/productImages/Large/KPH-Logo1.png">
 
 KPH Construction is the main and title sponsor of our team. This company is an innovative and dynamic contractor who are one of the foremost providers of construction services in Ireland. From refined classic opulence through to cutting edge contemporary, they create stunning buildings that number among the most exclusive. Their clients demand perfection, and they deliver accordingly. They work with leading Architects and Designers, faithfully interpreting their creative visions down to the last detail, to deliver a service that is without equal.
 
