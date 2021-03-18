@@ -18,7 +18,7 @@ KPH Construction is the main and title sponsor of our team. This company is an i
 
 <img align="right" width="150" height="125" src="https://www.kenmare.ie/contentFiles/productImages/Large/Holbein.png">
 
-Holbein Carpentry & Joinery is based in the picturesque town of Kenmare, South Kerry. It strives to cater for all their client's joinery and furniture requirements, and to support local craftspeople and industry. It has established a reputation for quality, value, and timely completion of their projects. They create bespoke products, tailored to meet personalised design specifications. They are proud to have a fantastic team of hardworking and loyal staff.
+Holbein Carpentry & Joinery is one of our presenting sponsors. They are based in the picturesque town of Kenmare, South Kerry. They strive to cater for all their client's joinery and furniture requirements, and to support local craftspeople and industry. They have established a reputation for quality, value, and timely completion of their projects. They create bespoke products, tailored to meet personalised design specifications. They are proud to have a fantastic team of hardworking and loyal staff.
 
 ### [MHL Consulting Engineers](https://www.mhl.ie)
 
