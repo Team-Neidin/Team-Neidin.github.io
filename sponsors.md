@@ -16,13 +16,13 @@ KPH Construction is the main and title sponsor of our team. This company is an i
 
 ### [Holbein Carpentry & Joinery](http://holbein.ie)
 
-<img align="right" width="175" height="125" src="https://www.kenmare.ie/contentFiles/productImages/Large/Holbein.png">
+<img align="right" width="200" height="150" src="https://www.kenmare.ie/contentFiles/productImages/Large/Holbein.png">
 
 Holbein Carpentry & Joinery is one of our presenting sponsors. They are based in the picturesque town of Kenmare, South Kerry. They strive to cater for all their client's joinery and furniture requirements, and to support local craftspeople and industry. They have established a reputation for quality, value, and timely completion of their projects. They create bespoke products, tailored to meet personalised design specifications. They are proud to have a fantastic team of hardworking and loyal staff.
 
 ### [MHL Consulting Engineers](https://www.mhl.ie)
 
-<img align="left" width="150" height="150" src="https://acei.ie/ws-content/uploads/logo-mhl.gif">
+<img align="left" width="175" height="150" src="https://acei.ie/ws-content/uploads/logo-mhl.gif">
 
 MHL Consulting Engineers is another one of our presenting sponsors. Founded in 1999 by directors Ken Manley, Martin Hanley & Brian Loughrey, MHL & Associates Ltd. is a firm of consulting engineers based in Cork City who offer a comprehensive range of services to both the public & private sectors. Enjoying considerable success since its establishment two decades ago, the company has gained a reputation for specialising in the fields of Road Design, Traffic & Transportation Engineering, Local Authority Infrastructure Design and the provision of Engineering Services for Residential and Commercial Developments.
 
