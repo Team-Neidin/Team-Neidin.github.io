@@ -19,6 +19,9 @@ navbar-links:
   Documents:
     - Proposal: "https://kenmarecs-my.sharepoint.com/:b:/p/16ccasey_student/ETJDhEvHWQtNpSe8utM7KBQBW-LZ4OPeG5EjwL2QJWJSgQ?e=7twWy9"
     - Enterprise Portfolio: "/portfolios/enterprise.pdf"
+  Press:
+    - Release: "/"
+    - Articles: "/articles"
   GitHub Repository: "https://github.com/Team-Neidin"
 
 # --- Logo --- #
