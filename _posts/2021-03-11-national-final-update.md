@@ -41,7 +41,7 @@ The full list of deadlines/submission dates is given below:
 * Deadline for Submission of Enterprise Portfolio, Engineering Portfolio, Pit Display Poster, and Marketing and Social Media Document via website: 12th April
 * Deadline to book time slots for judging: 14th April 
 * Deadline for Posting of Cars to F1 in Schools: 16th April (cars must have a post mark/tracking date of being sent on 16th April to be raced).
-* Enterprise Judging, Engineering Judging, Verbal Presentations and Race Interviews: 19th* 23rd April
+* Enterprise Judging, Engineering Judging, Verbal Presentations and Race Interviews: 19th - 23rd April
 * YouTube Broadcasts: 20th-22nd May
 * TG4 National Final Broadcast: 23rd May
 
