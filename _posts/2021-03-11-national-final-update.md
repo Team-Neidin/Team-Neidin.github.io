@@ -63,12 +63,10 @@ This year, we are launching additional awards and prizes as part of the biggest 
 
 ### New Prizes
 
-* F1 in Schools Ireland National Champions: €3000 + CJJ Motorsport Perpetual Cup + Represent Ireland at World Finals
-
+* F1 in Schools Ireland National Champions: €3000 and the CJJ Motorsport Perpetual Cup + Represent Ireland at World Finals
     * Overall Second Place: €1250 + Represent Ireland at World Finals
     * Overall Third Place: €750 + Represent Ireland at World Finals
     * International Collaboration Winner: Represent Ireland at World Finals as part of a Collaboration Team
-
 * In addition, we'll be offering new category awards such as Best Verbal Presentation, Best Engineered Car and many, many more. And that's not it! We have one more special award to announce* keep your eyes peeled for our new individual award, coming very soon.
 
 ## New Partnerships
