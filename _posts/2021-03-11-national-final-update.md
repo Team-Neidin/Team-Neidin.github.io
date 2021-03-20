@@ -23,7 +23,7 @@ In addition to broadcasting the highlights package on TG4, F1 in Schools Ireland
 
 ## How will the National Final Work Remotely?
 
-Because of the unique circumstances of the pandemic, we have had to adapt our F1 in Schools events. This year, as you all know, we are running a Virtual National Final. That means that your judging is completed via Zoom, your cars are submitted by post, and everything happens remotely. Here's a little detail on what that process will look like: Teams complete their Enterprise Portfolio, Engineering Portfolio, Marketing and Social Media Document, and Pit Display poster, and submit these online to the website at f1inschools.ie/submit. 
+Because of the unique circumstances of the pandemic, we have had to adapt our F1 in Schools events. This year, as you all know, we are running a Virtual National Final. That means that your judging is completed via Zoom, your cars are submitted by post, and everything happens remotely. Here's a little detail on what that process will look like: Teams complete their Enterprise Portfolio, Engineering Portfolio, Marketing and Social Media Document, and Pit Display poster, and submit these online to the website at [www.f1inschools.ie/submit](www.f1inschools.ie/submit). 
 
 Teams also submit their cars by posting their fully ready-to-race car to F1 in Schools Ireland (address to be provided later).
 
@@ -47,7 +47,7 @@ The full list of deadlines/submission dates is given below:
 
 ## Confirm your Participation
 
-In order to compile a final list of teams and ensure appropriate scheduling of judging sessions, we require that each team confirms their intent to participate in the National Final by 5PM on Wednesday the 17th of March. To confirm your intent to participate, please fill out the short form at www.f1inschools.ie/submit. 
+In order to compile a final list of teams and ensure appropriate scheduling of judging sessions, we require that each team confirms their intent to participate in the National Final by 5PM on Wednesday the 17th of March. To confirm your intent to participate, please fill out the short form at [www.[www.f1inschools.ie/submit](www.f1inschools.ie/submit)](www.[www.f1inschools.ie/submit](www.f1inschools.ie/submit)). 
 
 ## Feedback Round Update
 
@@ -55,7 +55,7 @@ Congratulations to each team who submitted work in the Feedback Round. We aim to
 
 ## Manufacturing Update
 
-We are currently dealing with a slight delay in the manufacture of components due to a delay of deliveries of raw materials to our manufacturing sites. We anticipate all car bodies and 3D prints being returned to teams by Monday, 29th of March. To confirm your delivery address and ensure you receive your parts as quickly as possible, complete the confirmation form at www.f1inschools.ie/submit and confirm your address there.
+We are currently dealing with a slight delay in the manufacture of components due to a delay of deliveries of raw materials to our manufacturing sites. We anticipate all car bodies and 3D prints being returned to teams by Monday, 29th of March. To confirm your delivery address and ensure you receive your parts as quickly as possible, complete the confirmation form at [www.[www.f1inschools.ie/submit](www.f1inschools.ie/submit)](www.[www.f1inschools.ie/submit](www.f1inschools.ie/submit)) and confirm your address there.
 
 ## New Awards and Prizes
 
