@@ -17,8 +17,8 @@ navbar-links:
   About Us: "aboutus"
   Sponorships: "sponsors"
   Documents:
-    - Proposal: "https://kenmarecs-my.sharepoint.com/:b:/p/16ccasey_student/ETJDhEvHWQtNpSe8utM7KBQBW-LZ4OPeG5EjwL2QJWJSgQ?e=7twWy9"
-    - Enterprise Portfolio: "/portfolios/enterprise.pdf"
+    - Proposal: "/documents/proposal.pdf"
+    - Enterprise Portfolio: "/documents/enterprise.pdf"
   Press:
     - Release: "https://teamkphconstructionracing.eu/2021-02-21-press-release/"
     - Articles: "/articles"
