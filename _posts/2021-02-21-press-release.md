@@ -27,5 +27,3 @@ We currently have three sponsors providing support to our team: our main sponsor
 Through raising public awareness of the team's progress, we hope to promote STEM subjects in rural communities in Ireland. STEM subjects are crucial in the modern world in which we live. They permeate all parts of rural life, and promoting these subjects; will support innovation in rural Ireland, which is suffering from a brain drain to large urban areas.
 
 Agriculture is a major part of Ireland's culture, and targeting these communities; will help advance and further develop the agricultural community in these areas. We think supporting these communities will be beneficial as they are often overlooked by the nation.
-
-I hope to hear back from you soon and I am willing to do an interview with you if you are interested.
