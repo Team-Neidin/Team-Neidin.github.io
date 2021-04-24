@@ -18,7 +18,12 @@ navbar-links:
   Sponorships: "sponsors"
   Documents:
     - Proposal: "/documents/proposal.pdf"
+    - Engineering Portfolio: "/documents/engineering.pdf"
+    - Engineering Drawings: "/documents/drawings.pdf"
+    - Engineering Renderings: "/documents/renderings.pdf"
     - Enterprise Portfolio: "/documents/enterprise.pdf"
+    - Pit Display: "/documents/pit_display.pdf"
+    - MSDM: "/documents/msdm.pdf"
   Press:
     - Release: "https://teamkphconstructionracing.eu/2021-02-21-press-release/"
     - Articles: "/articles"
